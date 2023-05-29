@@ -83,4 +83,12 @@ They seem to have lost all memory before about 30 minutes ago.
 - From the air vents, the teethy horse alien finds us. We are forced to fight it. Carlton prepares his flame thrower 🔥🔥🔥 but burns nothing but the walls, apparently. The creature is highly attracted by Carlton.
 - We try and find solutions, but even hurts further, the creature ablaze is still alive. We decide to flee, heroicly. We all make it to the mothership
 
-______
+## Seventh scene: Back to the mothership
+
+- [x] Refuel the mothership
+
+### What we do
+- We refuel the mothership and attempt a jump, but fail. Something in this quadrant is preventing us from leaving. The ship is now out of control and charges into the nearby moon...
+___
+# End of game 2
+ 
