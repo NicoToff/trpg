@@ -20,7 +20,7 @@ We realise there is a malware in the ship's computer.
 
 ## Second scene: The Alexis
 
-- [] Enter the Alexis
+- [x] Enter the Alexis
 
 ### What we do
 
@@ -32,7 +32,7 @@ We realise there is a malware in the ship's computer.
 
 ## Third scene: A Dangerous Encounter
 
-- [] Explore the Alexis further
+- [x] Explore the Alexis further
 
 ### What we do
 
@@ -42,7 +42,7 @@ We realise there is a malware in the ship's computer.
 
 ## Fourth scene: The Captain's Quarters
 
-- [] Explore the room
+- [x] Explore the room
 
 ### What we do
 
@@ -65,3 +65,4 @@ Team: We advise you to factory reboot the ship, then soft reboot yourselves.
 They seem to have lost all memory before about 30 minutes ago.
 
 - We find two human corpses in the common room. One of them is missing a leg, forcibly pulled away. The other one has bits of bones on him.
+- Carlton accesses the mainframe computer and find camera footage of [a very weird statue](https://media.discordapp.net/attachments/690285537575174195/1112837320287191090/Screenshot_2023-05-29_at_21.17.12.png).
