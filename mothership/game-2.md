@@ -57,12 +57,30 @@ We realise there is a malware in the ship's computer.
 
 In the common room, we meet two confused androids. They twitch violently, one is actually cut in half... They seem to be filling a personnality test on a computer.
 
-```
-Android 1: Nothing makes sense. My friend is cut in half! The main computer is not answering.
-Team: We advise you to factory reboot the ship, then soft reboot yourselves.
-```
+
+> __Android 1__: Nothing makes sense. My friend is cut in half! The main computer is not answering.
+> 
+> __Team__: We advise you to factory reboot the ship, then soft reboot yourselves.
+
 
 They seem to have lost all memory before about 30 minutes ago.
 
 - We find two human corpses in the common room. One of them is missing a leg, forcibly pulled away. The other one has bits of bones on him.
 - Carlton accesses the mainframe computer and find camera footage of [a very weird statue](https://media.discordapp.net/attachments/690285537575174195/1112837320287191090/Screenshot_2023-05-29_at_21.17.12.png).
+
+![a very weird statue](https://media.discordapp.net/attachments/690285537575174195/1112837320287191090/Screenshot_2023-05-29_at_21.17.12.png)
+
+- Carlton evacuates the statue into deep space. A radio message is heard: "Cargo bay will be depressurized in 5 minutes." The statue is flushed. Good job Carlton!
+
+## Sixth scene: Get the damn fuel
+
+- [] Get the fuel
+
+### What we do
+
+- The engine room is where the fuel is stored. Carlton transports it as he is the most knowledgeable in terms of engineering. Horrible aliens are still filling the corridors. 
+- We try to find a way to escape safely. The shuttle bay is the only way out for Tom Tomson since his vaccsuit is damaged. The others follow him despite the danger.
+- From the air vents, the teethy horse alien finds us. We are forced to fight it. Carlton prepares his flame thrower 🔥🔥🔥 but burns nothing but the walls, apparently. The creature is highly attracted by Carlton.
+- We try and find solutions, but even hurts further, the creature ablaze is still alive. We decide to flee, heroicly. We all make it to the mothership
+
+______
